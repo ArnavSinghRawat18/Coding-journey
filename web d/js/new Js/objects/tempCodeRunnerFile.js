@@ -1,0 +1,1 @@
+console.log*(obj); // { name: 'Arnav', greet: [Function: greet] }
