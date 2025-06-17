@@ -1,0 +1,43 @@
+
+.container{
+    background-color: aqua;
+    padding: 20px;
+    margin: 20px auto;
+    color: red;
+    width: 500px;
+   text-align: center;
+}
+.flexcontainer{
+    background-color: red;
+    width: 100vh;
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;  
+}
+.box1{
+    background-color: aqua;
+    height: 100px;
+    width: 100px;
+    margin: 10px;
+}
+.box2{
+    background-color: aqua;
+    height: 100px;
+    width: 100px;
+    margin: 10px;
+}
+.box3{
+    background-color: aqua;
+    height: 100px;
+    width: 100px;
+    margin: 10px;
+}
+.h1{
+    border: 2px solid black; /* sets a 2px solid black border */
+    padding: 10px; /* adds space inside the border */
+    text-align: center; /* centers the text within the heading */
+    width: fit-content; /* adjusts width to content */
+    margin: 20px auto; /* centers heading on page */
+  }

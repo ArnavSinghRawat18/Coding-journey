@@ -1,0 +1,14 @@
+.image{
+    height: 400px;
+    width: 400px;
+    object-fit: contain; /* aspect ratio of pic is maintained */
+    background-color: aqua;
+    
+}
+.pic{
+    background: url("https://unsplash.com/photos/blue-and-white-hearts-illustration-TnrpxHeN3OM");
+    width: 200px;
+    height: 200px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}

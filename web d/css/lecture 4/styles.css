@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: black;
+
+}
+nav ul{
+    display: flex;
+    padding: 10px;
+    gap: 10px;
+    
+
+}
+nav ul li{
+    list-style: none;
+    
+    color: white;
+ }
+ .styled-link{
+    color: red;
+    text-decoration-line: none;
+    transition:all 01s;
+ }
+ .styled-link:visited{
+    color: cyan;
+ }
+ .styled-link:hover{
+    color: blue;
+    background-color: chartreuse;
+ }

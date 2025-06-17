@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+.container{
+    font-size: 25px;
+
+}
+.absolutepx{
+    font-size: 20px;
+
+}
+.relativeem{
+padding: 10px;
+font-size: 1.5em;
+}
